@@ -14,3 +14,5 @@ javac -d bin src/com/motorph/employeeapp/*.java
 
 # Launch the GUI
 java -cp bin com.motorph.employeeapp.AppGUI
+
+- edit by jrh
